@@ -68,10 +68,10 @@ body{
 
 /* seksyen 3 */
 .seksyen3{
+    color: #FFC107;
     background-color: rgba(0, 0, 0, 0.425);
     padding: 6% 15% 7%;
     text-align: center;
-    color: #FFC107;
     font-weight: bolder;
 }
 
