@@ -1,0 +1,105 @@
+body{
+     background-image: url(https://images.unsplash.com/photo-1592919933511-ea9d487c85e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
+     background-size: cover;
+ }
+ /* seksyen 1 */
+.seksyen1{
+    background-color: #5a626867;
+    padding: 7% 15% 7%;
+    background-image: url(https://images.unsplash.com/photo-1592919933511-ea9d487c85e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner{
+    text-align: center;
+    
+}
+
+.heading-Anaqi{
+    color: #ffc107;
+}
+
+.tulisanPutih{
+    color: white;
+}
+
+/* seksyen 2 */
+.seksyen2{
+    background-color: #e9ecef;
+    padding: 5% 15% 5%;
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Anaqi1{
+    color: #ffc107;
+}
+
+.tulisan1{
+    color: white
+}
+
+.tulisan2{
+    color: white;
+}
+
+.icon{
+    color: #FFC107;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+.h2{
+    color: white;
+}
+
+.sek34{
+    background-image: url(images/7.jpg);
+    background-size: cover;
+}
+
+
+/* seksyen 3 */
+.seksyen3{
+    background-color: rgba(0, 0, 0, 0.425);
+    padding: 6% 15% 7%;
+    text-align: center;
+    color: #FFC107;
+    font-weight: bolder;
+}
+
+/* seksyen 4 */
+.seksyen4{
+    background-color: rgba(0, 0, 0, 0.425);
+    color:white ;
+    padding: 5%;
+    text-align: center;
+}
+
+/* seksyen 5 */
+.seksyen5{
+    background-color: #5A6268;
+    padding: 5% 20% 5%;
+    text-align: center;
+    color: white;
+    
+}
+
+/* footer */
+.footer{
+    background-color: #DDDDDD;
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: black;
+}
+
